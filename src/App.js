@@ -10,7 +10,6 @@ function App() {
     <Navbar/>
       <FrontScreen />
       <Footer/>
-      {/* <SegmentModal /> */}
     </>
   );
 }
